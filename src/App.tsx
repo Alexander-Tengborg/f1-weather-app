@@ -38,13 +38,6 @@ interface Weather {
   }
 }
 
-const getWeatherData = async (latitude: number, longitude: number, start_date: string, end_date: string) => {
-  const url = `https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&hourly=temperature_2m,precipitation_probability,rain&timezone=GMT&start_date=${start_date}&end_date=${end_date}`;
-  const response = await fetch(url);
-  const weather = await response.json();
-  console.log(weather);
-}
-
 const App: FC = () => {
   const [grand_prix, setGrandPrix] = useState<GrandPrix | null>(null);
   const [weather_data, setWeatherData] = useState<Weather | null>(null);
