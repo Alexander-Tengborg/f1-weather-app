@@ -1,0 +1,557 @@
+[
+	{
+		"race": "FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2024",
+		"country": "Spain",
+		"location": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"start": "2024-06-21T11:30:00.000Z",
+		"end": "2024-06-23T15:00:00.000Z",
+		"sessions": [
+			{
+				"session_type": "Practice 1",
+				"start": "2024-06-21T11:30:00.000Z",
+				"end": "2024-06-21T12:30:00.000Z"
+			},
+			{
+				"session_type": "Practice 2",
+				"start": "2024-06-21T15:00:00.000Z",
+				"end": "2024-06-21T16:00:00.000Z"
+			},
+			{
+				"session_type": "Practice 3",
+				"start": "2024-06-22T10:30:00.000Z",
+				"end": "2024-06-22T11:30:00.000Z"
+			},
+			{
+				"session_type": "Qualifying",
+				"start": "2024-06-22T14:00:00.000Z",
+				"end": "2024-06-22T15:00:00.000Z"
+			},
+			{
+				"session_type": "Race",
+				"start": "2024-06-23T13:00:00.000Z",
+				"end": "2024-06-23T15:00:00.000Z"
+			}
+		]
+	},
+	{
+		"race": "FORMULA 1 QATAR AIRWAYS AUSTRIAN GRAND PRIX 2024",
+		"country": "Austria",
+		"location": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"start": "2024-06-28T10:30:00.000Z",
+		"end": "2024-06-30T15:00:00.000Z",
+		"sessions": [
+			{
+				"session_type": "Practice 1",
+				"start": "2024-06-28T10:30:00.000Z",
+				"end": "2024-06-28T11:30:00.000Z"
+			},
+			{
+				"session_type": "Sprint Qualification",
+				"start": "2024-06-28T14:30:00.000Z",
+				"end": "2024-06-28T15:14:00.000Z"
+			},
+			{
+				"session_type": "Sprint Race",
+				"start": "2024-06-29T10:00:00.000Z",
+				"end": "2024-06-29T11:00:00.000Z"
+			},
+			{
+				"session_type": "Qualifying",
+				"start": "2024-06-29T14:00:00.000Z",
+				"end": "2024-06-29T15:00:00.000Z"
+			},
+			{
+				"session_type": "Race",
+				"start": "2024-06-30T13:00:00.000Z",
+				"end": "2024-06-30T15:00:00.000Z"
+			}
+		]
+	},
+	{
+		"race": "FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2024",
+		"country": "United Kingdom",
+		"location": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"start": "2024-07-05T11:30:00.000Z",
+		"end": "2024-07-07T16:00:00.000Z",
+		"sessions": [
+			{
+				"session_type": "Practice 1",
+				"start": "2024-07-05T11:30:00.000Z",
+				"end": "2024-07-05T12:30:00.000Z"
+			},
+			{
+				"session_type": "Practice 2",
+				"start": "2024-07-05T15:00:00.000Z",
+				"end": "2024-07-05T16:00:00.000Z"
+			},
+			{
+				"session_type": "Practice 3",
+				"start": "2024-07-06T10:30:00.000Z",
+				"end": "2024-07-06T11:30:00.000Z"
+			},
+			{
+				"session_type": "Qualifying",
+				"start": "2024-07-06T14:00:00.000Z",
+				"end": "2024-07-06T15:00:00.000Z"
+			},
+			{
+				"session_type": "Race",
+				"start": "2024-07-07T14:00:00.000Z",
+				"end": "2024-07-07T16:00:00.000Z"
+			}
+		]
+	},
+	{
+		"race": "FORMULA 1 HUNGARIAN GRAND PRIX 2024",
+		"country": "Hungary",
+		"location": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"start": "2024-07-19T11:30:00.000Z",
+		"end": "2024-07-21T15:00:00.000Z",
+		"sessions": [
+			{
+				"session_type": "Practice 1",
+				"start": "2024-07-19T11:30:00.000Z",
+				"end": "2024-07-19T12:30:00.000Z"
+			},
+			{
+				"session_type": "Practice 2",
+				"start": "2024-07-19T15:00:00.000Z",
+				"end": "2024-07-19T16:00:00.000Z"
+			},
+			{
+				"session_type": "Practice 3",
+				"start": "2024-07-20T10:30:00.000Z",
+				"end": "2024-07-20T11:30:00.000Z"
+			},
+			{
+				"session_type": "Qualifying",
+				"start": "2024-07-20T14:00:00.000Z",
+				"end": "2024-07-20T15:00:00.000Z"
+			},
+			{
+				"session_type": "Race",
+				"start": "2024-07-21T13:00:00.000Z",
+				"end": "2024-07-21T15:00:00.000Z"
+			}
+		]
+	},
+	{
+		"race": "FORMULA 1 ROLEX BELGIAN GRAND PRIX 2024",
+		"country": "Belgium",
+		"location": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"start": "2024-07-26T11:30:00.000Z",
+		"end": "2024-07-28T15:00:00.000Z",
+		"sessions": [
+			{
+				"session_type": "Practice 1",
+				"start": "2024-07-26T11:30:00.000Z",
+				"end": "2024-07-26T12:30:00.000Z"
+			},
+			{
+				"session_type": "Practice 2",
+				"start": "2024-07-26T15:00:00.000Z",
+				"end": "2024-07-26T16:00:00.000Z"
+			},
+			{
+				"session_type": "Practice 3",
+				"start": "2024-07-27T10:30:00.000Z",
+				"end": "2024-07-27T11:30:00.000Z"
+			},
+			{
+				"session_type": "Qualifying",
+				"start": "2024-07-27T14:00:00.000Z",
+				"end": "2024-07-27T15:00:00.000Z"
+			},
+			{
+				"session_type": "Race",
+				"start": "2024-07-28T13:00:00.000Z",
+				"end": "2024-07-28T15:00:00.000Z"
+			}
+		]
+	},
+	{
+		"race": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024",
+		"country": "Netherlands",
+		"location": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"start": "2024-08-23T10:30:00.000Z",
+		"end": "2024-08-25T15:00:00.000Z",
+		"sessions": [
+			{
+				"session_type": "Practice 1",
+				"start": "2024-08-23T10:30:00.000Z",
+				"end": "2024-08-23T11:30:00.000Z"
+			},
+			{
+				"session_type": "Practice 2",
+				"start": "2024-08-23T14:00:00.000Z",
+				"end": "2024-08-23T15:00:00.000Z"
+			},
+			{
+				"session_type": "Practice 3",
+				"start": "2024-08-24T09:30:00.000Z",
+				"end": "2024-08-24T10:30:00.000Z"
+			},
+			{
+				"session_type": "Qualifying",
+				"start": "2024-08-24T13:00:00.000Z",
+				"end": "2024-08-24T14:00:00.000Z"
+			},
+			{
+				"session_type": "Race",
+				"start": "2024-08-25T13:00:00.000Z",
+				"end": "2024-08-25T15:00:00.000Z"
+			}
+		]
+	},
+	{
+		"race": "FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024",
+		"country": "Italy",
+		"location": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"start": "2024-08-30T11:30:00.000Z",
+		"end": "2024-09-01T15:00:00.000Z",
+		"sessions": [
+			{
+				"session_type": "Practice 1",
+				"start": "2024-08-30T11:30:00.000Z",
+				"end": "2024-08-30T12:30:00.000Z"
+			},
+			{
+				"session_type": "Practice 2",
+				"start": "2024-08-30T15:00:00.000Z",
+				"end": "2024-08-30T16:00:00.000Z"
+			},
+			{
+				"session_type": "Practice 3",
+				"start": "2024-08-31T10:30:00.000Z",
+				"end": "2024-08-31T11:30:00.000Z"
+			},
+			{
+				"session_type": "Qualifying",
+				"start": "2024-08-31T14:00:00.000Z",
+				"end": "2024-08-31T15:00:00.000Z"
+			},
+			{
+				"session_type": "Race",
+				"start": "2024-09-01T13:00:00.000Z",
+				"end": "2024-09-01T15:00:00.000Z"
+			}
+		]
+	},
+	{
+		"race": "FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2024",
+		"country": "Azerbaijan",
+		"location": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"start": "2024-09-13T09:30:00.000Z",
+		"end": "2024-09-15T13:00:00.000Z",
+		"sessions": [
+			{
+				"session_type": "Practice 1",
+				"start": "2024-09-13T09:30:00.000Z",
+				"end": "2024-09-13T10:30:00.000Z"
+			},
+			{
+				"session_type": "Practice 2",
+				"start": "2024-09-13T13:00:00.000Z",
+				"end": "2024-09-13T14:00:00.000Z"
+			},
+			{
+				"session_type": "Practice 3",
+				"start": "2024-09-14T08:30:00.000Z",
+				"end": "2024-09-14T09:30:00.000Z"
+			},
+			{
+				"session_type": "Qualifying",
+				"start": "2024-09-14T12:00:00.000Z",
+				"end": "2024-09-14T13:00:00.000Z"
+			},
+			{
+				"session_type": "Race",
+				"start": "2024-09-15T11:00:00.000Z",
+				"end": "2024-09-15T13:00:00.000Z"
+			}
+		]
+	},
+	{
+		"race": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024",
+		"country": "Singapore",
+		"location": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"start": "2024-09-20T09:30:00.000Z",
+		"end": "2024-09-22T14:00:00.000Z",
+		"sessions": [
+			{
+				"session_type": "Practice 1",
+				"start": "2024-09-20T09:30:00.000Z",
+				"end": "2024-09-20T10:30:00.000Z"
+			},
+			{
+				"session_type": "Practice 2",
+				"start": "2024-09-20T13:00:00.000Z",
+				"end": "2024-09-20T14:00:00.000Z"
+			},
+			{
+				"session_type": "Practice 3",
+				"start": "2024-09-21T09:30:00.000Z",
+				"end": "2024-09-21T10:30:00.000Z"
+			},
+			{
+				"session_type": "Qualifying",
+				"start": "2024-09-21T13:00:00.000Z",
+				"end": "2024-09-21T14:00:00.000Z"
+			},
+			{
+				"session_type": "Race",
+				"start": "2024-09-22T12:00:00.000Z",
+				"end": "2024-09-22T14:00:00.000Z"
+			}
+		]
+	},
+	{
+		"race": "FORMULA 1 PIRELLI UNITED STATES GRAND PRIX 2024",
+		"country": "United States",
+		"location": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"start": "2024-10-18T17:30:00.000Z",
+		"end": "2024-10-20T21:00:00.000Z",
+		"sessions": [
+			{
+				"session_type": "Practice 1",
+				"start": "2024-10-18T17:30:00.000Z",
+				"end": "2024-10-18T18:30:00.000Z"
+			},
+			{
+				"session_type": "Sprint Qualification",
+				"start": "2024-10-18T21:30:00.000Z",
+				"end": "2024-10-18T22:14:00.000Z"
+			},
+			{
+				"session_type": "Sprint Race",
+				"start": "2024-10-19T18:00:00.000Z",
+				"end": "2024-10-19T19:00:00.000Z"
+			},
+			{
+				"session_type": "Qualifying",
+				"start": "2024-10-19T22:00:00.000Z",
+				"end": "2024-10-19T23:00:00.000Z"
+			},
+			{
+				"session_type": "Race",
+				"start": "2024-10-20T19:00:00.000Z",
+				"end": "2024-10-20T21:00:00.000Z"
+			}
+		]
+	},
+	{
+		"race": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2024",
+		"country": "Mexico",
+		"location": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"start": "2024-10-25T18:30:00.000Z",
+		"end": "2024-10-27T22:00:00.000Z",
+		"sessions": [
+			{
+				"session_type": "Practice 1",
+				"start": "2024-10-25T18:30:00.000Z",
+				"end": "2024-10-25T19:30:00.000Z"
+			},
+			{
+				"session_type": "Practice 2",
+				"start": "2024-10-25T22:00:00.000Z",
+				"end": "2024-10-25T23:00:00.000Z"
+			},
+			{
+				"session_type": "Practice 3",
+				"start": "2024-10-26T17:30:00.000Z",
+				"end": "2024-10-26T18:30:00.000Z"
+			},
+			{
+				"session_type": "Qualifying",
+				"start": "2024-10-26T21:00:00.000Z",
+				"end": "2024-10-26T22:00:00.000Z"
+			},
+			{
+				"session_type": "Race",
+				"start": "2024-10-27T20:00:00.000Z",
+				"end": "2024-10-27T22:00:00.000Z"
+			}
+		]
+	},
+	{
+		"race": "FORMULA 1 LENOVO GRANDE PRÊMIO DE SÃO PAULO 2024",
+		"country": "Brazil",
+		"location": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"start": "2024-11-01T14:30:00.000Z",
+		"end": "2024-11-03T19:00:00.000Z",
+		"sessions": [
+			{
+				"session_type": "Practice 1",
+				"start": "2024-11-01T14:30:00.000Z",
+				"end": "2024-11-01T15:30:00.000Z"
+			},
+			{
+				"session_type": "Sprint Qualification",
+				"start": "2024-11-01T18:30:00.000Z",
+				"end": "2024-11-01T19:14:00.000Z"
+			},
+			{
+				"session_type": "Sprint Race",
+				"start": "2024-11-02T14:00:00.000Z",
+				"end": "2024-11-02T15:00:00.000Z"
+			},
+			{
+				"session_type": "Qualifying",
+				"start": "2024-11-02T18:00:00.000Z",
+				"end": "2024-11-02T19:00:00.000Z"
+			},
+			{
+				"session_type": "Race",
+				"start": "2024-11-03T17:00:00.000Z",
+				"end": "2024-11-03T19:00:00.000Z"
+			}
+		]
+	},
+	{
+		"race": "FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024",
+		"country": "United States",
+		"location": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"start": "2024-11-22T02:30:00.000Z",
+		"end": "2024-11-24T07:59:00.000Z",
+		"sessions": [
+			{
+				"session_type": "Practice 1",
+				"start": "2024-11-22T02:30:00.000Z",
+				"end": "2024-11-22T03:30:00.000Z"
+			},
+			{
+				"session_type": "Practice 2",
+				"start": "2024-11-22T06:00:00.000Z",
+				"end": "2024-11-22T07:00:00.000Z"
+			},
+			{
+				"session_type": "Practice 3",
+				"start": "2024-11-23T02:30:00.000Z",
+				"end": "2024-11-23T03:30:00.000Z"
+			},
+			{
+				"session_type": "Qualifying",
+				"start": "2024-11-23T06:00:00.000Z",
+				"end": "2024-11-23T07:00:00.000Z"
+			},
+			{
+				"session_type": "Race",
+				"start": "2024-11-24T06:00:00.000Z",
+				"end": "2024-11-24T07:59:00.000Z"
+			}
+		]
+	},
+	{
+		"race": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024",
+		"country": "Qatar",
+		"location": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"start": "2024-11-29T13:30:00.000Z",
+		"end": "2024-12-01T18:00:00.000Z",
+		"sessions": [
+			{
+				"session_type": "Practice 1",
+				"start": "2024-11-29T13:30:00.000Z",
+				"end": "2024-11-29T14:30:00.000Z"
+			},
+			{
+				"session_type": "Sprint Qualification",
+				"start": "2024-11-29T17:30:00.000Z",
+				"end": "2024-11-29T18:14:00.000Z"
+			},
+			{
+				"session_type": "Sprint Race",
+				"start": "2024-11-30T13:00:00.000Z",
+				"end": "2024-11-30T14:00:00.000Z"
+			},
+			{
+				"session_type": "Qualifying",
+				"start": "2024-11-30T17:00:00.000Z",
+				"end": "2024-11-30T18:00:00.000Z"
+			},
+			{
+				"session_type": "Race",
+				"start": "2024-12-01T16:00:00.000Z",
+				"end": "2024-12-01T18:00:00.000Z"
+			}
+		]
+	},
+	{
+		"race": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024",
+		"country": "United Arab Emirates",
+		"location": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"start": "2024-12-06T09:30:00.000Z",
+		"end": "2024-12-08T15:00:00.000Z",
+		"sessions": [
+			{
+				"session_type": "Practice 1",
+				"start": "2024-12-06T09:30:00.000Z",
+				"end": "2024-12-06T10:30:00.000Z"
+			},
+			{
+				"session_type": "Practice 2",
+				"start": "2024-12-06T13:00:00.000Z",
+				"end": "2024-12-06T14:00:00.000Z"
+			},
+			{
+				"session_type": "Practice 3",
+				"start": "2024-12-07T10:30:00.000Z",
+				"end": "2024-12-07T11:30:00.000Z"
+			},
+			{
+				"session_type": "Qualifying",
+				"start": "2024-12-07T14:00:00.000Z",
+				"end": "2024-12-07T15:00:00.000Z"
+			},
+			{
+				"session_type": "Race",
+				"start": "2024-12-08T13:00:00.000Z",
+				"end": "2024-12-08T15:00:00.000Z"
+			}
+		]
+	}
+]
