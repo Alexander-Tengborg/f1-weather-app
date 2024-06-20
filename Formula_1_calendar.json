@@ -3,8 +3,8 @@
 		"race": "FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2024",
 		"country": "Spain",
 		"location": {
-			"latitude": 0,
-			"longitude": 0
+			"latitude": 41.570025339712245,
+			"longitude": 2.2612133809186843
 		},
 		"start": "2024-06-21T11:30:00.000Z",
 		"end": "2024-06-23T15:00:00.000Z",
